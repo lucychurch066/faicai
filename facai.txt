@@ -1,1 +1,13 @@
 https://api.whatsapp.com/send/?phone=67572768581&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67572742124&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67572696281&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67572894351&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67572839619&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67572836155&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67571671667&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67571699044&text&app_absent=0
+https://api.whatsapp.com/send/?phone=67571645689&text&app_absent=0
+https://api.whatsapp.com/send/?phone=213553473049&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801857123891&text&app_absent=0
+https://api.whatsapp.com/send/?phone=213553474041&text&app_absent=0
+https://api.whatsapp.com/send/?phone=393334465284&text&app_absent=0
