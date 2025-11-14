@@ -10,3 +10,6 @@ https://api.whatsapp.com/send/?phone=67573098639&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801917115512&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67571165395&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67572974448&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801722176968&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801722227867&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801722658545&text&app_absent=0
