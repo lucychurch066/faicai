@@ -5,3 +5,5 @@ https://api.whatsapp.com/send/?phone=8801937729316&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67571699044&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67571645689&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801707997866&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801965343707&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801964598921&text&app_absent=0
