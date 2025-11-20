@@ -1,6 +1,5 @@
 https://api.whatsapp.com/send/?phone=8801622156526&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801861831658&text&app_absent=0
-https://api.whatsapp.com/send/?phone=8801863601358&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801344726319&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801576787531&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801647299752&text&app_absent=0
