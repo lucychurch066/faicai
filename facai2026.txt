@@ -6,3 +6,10 @@ https://api.whatsapp.com/send/?phone=8801854141343&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801981087309&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801972618959&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801965052552&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801903997410&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801987315336&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801843487562&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801965496989&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801945098763&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801946114609&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801946445737&text&app_absent=0
