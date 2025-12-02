@@ -10,3 +10,7 @@ https://api.whatsapp.com/send/?phone=8801910077422&text&app_absent=0
 https://api.whatsapp.com/send/?phone=27739336504&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801727269310&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801861831658&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801313415703&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801916688160&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801647299752&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801923874422&text&app_absent=0
