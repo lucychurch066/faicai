@@ -14,3 +14,6 @@ https://api.whatsapp.com/send/?phone=8801313415703&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801916688160&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801647299752&text&app_absent=0
 https://api.whatsapp.com/send/?phone=8801923874422&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801930184514&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801933099344&text&app_absent=0
+https://api.whatsapp.com/send/?phone=8801932967969&text&app_absent=0
